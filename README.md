@@ -12,6 +12,8 @@ I am passionate about technology, currently looking to grow and learn new things
 
 Looking forward to learn Swift for iOs Development and to learn more about Typescript.
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luqas31&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.lucasouza.com)
