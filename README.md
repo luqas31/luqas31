@@ -13,8 +13,8 @@ I'm currently interested in learning Swift for iOS development and improving my 
 
 
 ## Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.lucasouza.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqas31/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-212830?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.lucasouza.com)
+[![linkedin](https://img.shields.io/badge/linkedin-212830?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqas31/)
 
 You can also check my latest works at my repositories
 
