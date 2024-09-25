@@ -21,6 +21,7 @@ You can also check my latest works at my repositories
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luqas31&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luqas31)](https://git.io/streak-stats)
 
 
