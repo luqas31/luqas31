@@ -9,6 +9,8 @@ I am passionate about technology, currently looking to grow and learn new things
 ![Node.js](https://img.shields.io/badge/Node%20js-212830?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-212830?style=for-the-badge&logo=mysql&logoColor=white)
 
+I'm currently interested in learning Swift for iOS development and improving my TypeScript knowledge
+
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.lucasouza.com)
