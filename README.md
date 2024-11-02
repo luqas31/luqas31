@@ -29,4 +29,4 @@ You can also check my latest works at my pinned repositories
 
 ## Feel free to reach me!
 
-###### :)
+###### lucasouza.com
