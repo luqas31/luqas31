@@ -1,5 +1,5 @@
 ## Hi, I'm Lucas Souza
-I am passionate about technology, currently looking to grow and learn new things.
+I am passionate about technology, currently looking to grow and learn new stuff.
 
 
 ## Here you have my tech stack!
