@@ -1,4 +1,4 @@
-## Hi, I'm Lucas Souza
+## Hi, I'm Lucas
 I am passionate about technology, currently looking to grow and learn new stuff.
 
 
