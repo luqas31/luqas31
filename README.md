@@ -9,7 +9,8 @@ I am passionate about technology, currently looking to grow and learn new stuff.
 ![Node.js](https://img.shields.io/badge/Node%20js-212830?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-212830?style=for-the-badge&logo=mysql&logoColor=white)
 
-Currently learning
+Currently learning:
+
 ![Typescript](https://img.shields.io/badge/TypeScript-212830?style=for-the-badge&logo=typescript&logoColor=white)
 
 
